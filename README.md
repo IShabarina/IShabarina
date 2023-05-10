@@ -28,7 +28,7 @@ Hi!
 ### My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IShabarina&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+[![codewars](https://www.codewars.com/users/IShabarina/badges/large)](https://www.codewars.com/users/IShabarina) 
 
   
   
